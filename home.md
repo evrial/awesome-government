@@ -3,7 +3,7 @@
 Списки:
 
 * [Загальнонаціональні сервіси та реєстри](https://github.com/DevRainSolutions/KyivSmartCity/wiki/government)
-* [Соціальні сервіси та ініціативи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
+* [Соціальні сервіси та волонтерські ініціативи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
 
 Сервіси по регіонах:
 

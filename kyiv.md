@@ -28,8 +28,7 @@ Globus Charity Winter - http://globus.com.ua/charitywinter/
 
 Реклама Києва.	Інспектор - http://www.kievreklama.kiev.ua/inspector/  
 
-The world's most 'liveable' cities - http://www.economist.com/blogs/graphicdetail/2015/08/daily-chart-5?
-fsrc=scn/tw/te/dc/st/theworldsmostliveablecities  
+The world's most 'liveable' cities - http://www.economist.com/blogs/graphicdetail/2015/08/daily-chart-5?fsrc=scn/tw/te/dc/st/theworldsmostliveablecities  
 
 Сеть свободных библиотек «Оциум» получила 200 000 грн и звание самого полезного стартапа Киева - http://ain.ua/2015/06/02/583515  
 

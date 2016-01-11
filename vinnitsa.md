@@ -1,4 +1,4 @@
-##Vinnitsa
+##Вінниця
 
 Візуальне представлення міського бюджету - http://www.vmr.gov.ua/TransparentCity/Lists/BudjMista/ShowContent.aspx?ID=64  
 Мобільний розклад транспорту - http://vlasno.info/…/7947-vinnychanam-podaruvaly-mobilnyi-r…  

@@ -186,7 +186,7 @@ Prozorro - система державних закупівель - http://prozo
 
 Електронна митниця - http://minrd.gov.ua  
 
-Реєстр магазинів безмитної торгівлі - http://sfs.gov.ua/…/material/000/057/94931/Re_str_MBT_01.06…  
+Реєстр магазинів безмитної торгівлі - http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/94931.html  
 
 Єдиний реєстр суб’єктів господарювання, які можуть здійснювати реалізацію безхазяйного майна та майна, що переходить у власність держави, у 2015 році - http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/179847.html  
 
@@ -246,7 +246,7 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 База даних втрачених паспортів - http://www.fin-risk.org/index.php?name=Passports  
 
-Централізована база даних МТСБУ - https://cbd.mtibu.kiev.ua/MTSBU_Pages/Tree.aspx…  
+Централізована база даних МТСБУ - https://cbd.mtibu.kiev.ua/MTSBU_Pages/Tree.aspx  
 
 Перелік осіб, пов`язаних із здійсненням терористичної діяльності або стосовно яких застосовано міжнародні санкції - https://www.pard.ua/uk/news/3853-2015-12-22-terorysty/  
 

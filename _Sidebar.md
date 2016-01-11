@@ -3,9 +3,7 @@
 Списки:
 
 * [Загальнонаціональні сервіси та реєстри](https://github.com/DevRainSolutions/KyivSmartCity/wiki/government)
-* [Соціальні сервіси та ініціативи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
-* [OpenData](https://github.com/DevRainSolutions/KyivSmartCity/wiki/opendata)
-* [SmartSity](https://github.com/DevRainSolutions/KyivSmartCity/wiki/smartsity)
+* [Соціальні сервіси та волонтерські проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
 
 Сервіси по регіонах:
 

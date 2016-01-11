@@ -2,7 +2,7 @@
 
 Візуальне представлення міського бюджету - http://www.vmr.gov.ua/TransparentCity/Lists/BudjMista/ShowContent.aspx?ID=64  
 
-Мобільний розклад транспорту - http://vlasno.info/…/7947-vinnychanam-podaruvaly-mobilnyi-r…  
+Мобільний розклад транспорту - http://vlasno.info/politika/vlada/mistseva/item/7947-vinnychanam-podaruvaly-mobilnyi-rozklad-transportu  
 
 Електронні сервіси та прозорий офіс: - http://vmr.gov.ua  
 

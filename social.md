@@ -15,7 +15,6 @@
 GOSPAY для всех твоих счетов - https://gospay.net/  
 Дороги України - http://uaroads.com/  
 Код міста - http://kodmista.com.ua/  
-Портал управління знаннями - http://egov.inf.ua/SitePages/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%20%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0.aspx  
 Всі акредитовані центри сертифікації ключів України - https://www.google.com/maps/d/u/0/viewer?usp=sharing&mid=zVVn_lBkxW4A.kMLwCKkQoZ_A  
 BadParking — скарги на паркування - http://badparking.in.ua/  
 Безвизовые страны для украинцев в 2015 и 2016 году - http://kwidoo.ru/non-visas-for-ukraine.html  

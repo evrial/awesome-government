@@ -1,10 +1,8 @@
-##Тернопіль
+##Тернопільська область
 
 Система місцевих петицій - http://www.e-dem.in.ua
 
 Тернопільська міська рада - http://www.rada.te.ua
-
-Портал міста - http://www.lvivrada.gov.ua/
  
 Портал відкрите місто - http://opencity.in.ua/issuelist#r=UA61101
 
@@ -16,8 +14,6 @@
 
 Оплата комунальних послуг онлайн - https://mypayments.privatbank.ua/index.html…  
 
-Подати показники (вода і газ) - http://komun.te.ua/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%B8-%D…/  
-
 Cайт ТернопільВодоканал - http://www.vodokanal.te.ua/  
 
 Cайт ТернопільГаз - http://www.tmgaz.te.ua/  
@@ -27,8 +23,6 @@ Cайт ТернопільГаз - http://www.tmgaz.te.ua/
 Транспорт Тернополя - http://detransport.com.ua/  
 
 Інтерактивна карта інфраструктури - http://karta.te.ua/  
-
-Відкрита Країна	площадка для спілкування з депутатами-представниками територіальних округів - https://www.facebook.com/Відкрита-Країна-Тернопіль-8896809…/  
 
 ДАІ - http://www.dai.te.gov.ua/  
 

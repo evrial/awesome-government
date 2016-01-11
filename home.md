@@ -12,4 +12,4 @@
 * [Вінницька область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/vinnitsa#vinnitsa)
 * [Дніпропетровська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/dnipropetrovsk)
 * [Івано-Франківська область]()
-* [Харківська область]()
+* [Харківська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/harkiv)

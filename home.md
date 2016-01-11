@@ -9,7 +9,7 @@
 
 Сервіси по регіонах:
 
-* [Вінниця](https://github.com/DevRainSolutions/KyivSmartCity/wiki/vinnitsa#vinnitsa)
-* [Дніпропетровськ]()
-* [Івано-Франківськ]()
-* [Харків]()
+* [Вінницька область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/vinnitsa#vinnitsa)
+* [Дніпропетровська область]()
+* [Івано-Франківська область]()
+* [Харківська область]()

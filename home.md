@@ -13,4 +13,5 @@
 * [Дніпропетровська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/dnipropetrovsk)
 * [Івано-Франківська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/ivanoFrankivsk)
 * [Київська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/kyiv)
+* [Львівська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/lviv)
 * [Харківська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/harkiv)

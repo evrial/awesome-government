@@ -105,4 +105,6 @@ E-CITY - вирішуємо проблеми разом - http://e-city.in.ua/
 
 Всеукраїнський центр волонтерів - http://www.peoplesproject.com/  
 
-З миру по нитці: на які чужі ідеї не пошкодували грошей українці у 2015-му - http://nv.ua/ukr/publications/z-miru-po-nittsi-na-jaki-chuzhi-ideji-ne-poshkoduvali-groshej-ukrajintsi-u-2015-mu-90461.html
+Спільнокошт - https://biggggidea.com/projects/  
+
+EdEra Books – інтерактивна освітня бібліотека - https://www.ed-era.com/books/  

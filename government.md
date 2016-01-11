@@ -115,4 +115,31 @@ Prozorro - система державних закупівель - http://prozo
 Державна міграційна служба України - http://dmsu.gov.ua/perevirkastanu.php  
 Дані реєстру платників ПДВ - http://sfs.gov.ua/reestr_new  
 Електронний кабінет платника податків - http://knp.minrd.gov.ua/Publish/PublishedApp.aspx  
-Міністерство інфраструктури України - відкриті дані - http://mtu.gov.ua/timeline/Vidkriti-dani.html  
+Міністерство інфраструктури України - відкриті дані - http://mtu.gov.ua/timeline/Vidkriti-dani.html
+API портала открытых данных - http://api.data.mos.ru/Docs  
+Реєстр громадських об’єднань - http://rgo.informjust.ua  
+Єдиний реєстр громадських формувань - http://rgf.informjust.ua/home/index  
+Реєстр друкованих ЗМІ та інформаційних агентств - http://dzmi.informjust.ua  
+База даних втрачених паспортів - http://www.fin-risk.org/index.php?name=Passports  
+Централізована база даних МТСБУ - https://cbd.mtibu.kiev.ua/MTSBU_Pages/Tree.aspx…  
+Перелік осіб, пов`язаних із здійсненням терористичної діяльності або стосовно яких застосовано міжнародні санкції - https://www.pard.ua/…/financial-…/3443-2015-06-03-terorysty/  
+Продукція, сертифікована Укрметртестстандартом - http://www.ukrcsm.kiev.ua/index.p…/…/2009-02-12-13-16-36/-qq  
+Єдиний реєстр спеціальних бланків нотаріальних документів - http://rnb.informjust.ua  
+Реєстрі навчальних закладів - http://www.reestr.osvita.net  
+Єдиний реєстр адвокатів - http://www.unba.org.ua/erau  
+Державний реєстр потенційно шкідливих об’єктів - http://sfd.archives.gov.ua/RUS/page4.html  
+Єдина база чіпованих тварин - http://www.tracer.com.ua
+Державний реєстр лікарських засобів - http://www.drlz.kiev.ua  
+База даних інфраструктури експорта - http://ukrexport.gov.ua/rus/baza_ukr_infrastructure/…  
+Єдиний Реєстр медичних працівників та штампів - http://umcbdr.com.ua/reyestri  
+Реєстр наукових організацій - http://store.uintei.kiev.ua/reestr_new.html  
+Єдиний державний реєстр виконавчих проваджень - https://trade.informjust.ua/vpdoc/getdoc.aspx  
+Перевірка оригінальності ідентифікаційного номеру малого судна в Регістрі судноплавства - http://shipregister.ua/cin/cin3.html  
+Реєстрова книга суден в Регістрі судноплавства - http://shipregister.ua/ships/reg-ships.pdf
+Судна, сертифіковані Регістром судноплавства - http://shipregister.ua/ism.html  
+Перевірка дійсності документа Регістра судноплавства - http://shipregister.ua/ships/index.html  
+Пошук суден в Регістрі судноплавства - http://shipregister.ua/ships/search.html  
+Українська міжбанківська валютна біржа. Фондовий, товарний ринок, електронні аукціони з продажу нафтопродуктів - http://www.uice.com.ua  
+Реєстр агентів. Моторно траспортне страхове бюро України МТСБУ - https://cbd.mtibu.kiev.ua/MTS…/Parameters/SearchParams.aspx…  
+Реєстр спецдозволів ДНВП "ГЕОІНФОРМ УКРАЇНИ" - http://geoinf.kiev.ua/specdozvoli/  
+Єдиний державний реєстр осіб, які вчинили корупційні правопорушення - http://corrupt.informjust.ua/

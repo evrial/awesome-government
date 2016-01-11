@@ -110,23 +110,38 @@ Prozorro - система державних закупівель - http://prozo
 
 Реєстр адміністративних послуг - http://poslugy.gov.ua/AdminService/List  
 
-Перелік організацій-виконавців, які заявили право на податкові пільги - http://www.me.gov.ua/Documents/Download…  
-Перелік суб’єктів господарської діяльності, що мають ліцензію на діяльність з випуску та проведення лотерей - http://www.minfin.gov.ua/control/publish/article/main…  
+Перелік організацій-виконавців, які заявили право на податкові пільги - http://www.me.gov.ua/Documents/List?lang=uk-UA&tag=PerelikOrganizatsii-vikonavtsivYakiZaiaviliPravoNaPodatkoviPilgi  
+
 Реєстр ліцензіатів, яким дозволена діяльність у сфері збору, обробки, переробки відходів дорогоцінних металів і дорогоцінного каміння - http://www.assay.gov.ua  
+
 Електронна система розкриття інформації учасників фондового ринку ЕСКРІН - http://smida.gov.ua/db  
+
 Реєстр дозволів на міжнародні перевезення - http://www.mtu.gov.ua/uk/1234365r6i8ghjn.html  
-Довідник вантажних станцій Укрзалізниці - http://www.uz.gov.ua/cargo_transport…/general_information/…/  
+
+Довідник вантажних станцій Укрзалізниці - http://www.uz.gov.ua/cargo_transportation/general_information/cargo_stations/  
+
 Єдина база даних електронних адрес, номерів факсів (телефаксів) суб’єктів владних повноважень - http://email.court.gov.ua/search   
+
 Виробники авіаційної техніки - http://www.avia.gov.ua/uploads/documents/10006.pdf  
+
 Типи повітряних суден, які схвалені для експлуатації в ЦА - http://avia.gov.ua/uploads/documents/8471.pdf  
+
 Реквізити аеропортів цивільної авіації України - http://avia.gov.ua/documents/diyalnist/aeroport/24145.html  
+
 Адреси масової реєстрації платників податків - http://sts.gov.ua/mr   
-Інформація стосовно ліцензій з надання послуг з перевезення пасажирів, вантажів повітряним транспортом - http://www.avia.gov.ua/…/Aviaperevezennya-ta-lit…/23894.html  
+
+Інформація стосовно ліцензій з надання послуг з перевезення пасажирів, вантажів повітряним транспортом - http://avia.gov.ua/documents/Administrative_Services_Licensing/Information_licenses/23894.html  
+ 
 Дізнайся більше про свого бізнес-партнера - http://sfs.gov.ua/businesspartner  
+
 Перелік суб'єктів яким видано ліцензії на проведення тур операторської діяльності Держкомтуризму - http://www.tourism.gov.ua/ua/services/licensing/25408  
-Перелік чинних галузевих будівельних норм (ВБН, ГБН) у сфері дорожнього господарства - http://www.ukravtodor.gov.ua/gbn-u-sferi-dorozhnogo-gospoda…  
+
+Перелік чинних галузевих будівельних норм (ВБН, ГБН) у сфері дорожнього господарства - http://www.ukravtodor.gov.ua/gbn-u-sferi-dorozhnogo-gospodarstva  
+
 Перелік виданих дозвільних документів (ЄКМТ) Укртрансінспекції - http://www.uti.gov.ua/transinsp/uk/publish/category/49824  
+
 Реєстри учасників фондового ринку - http://www.nssmc.gov.ua/fund/registers  
+
 Реєстр рішень НКЦПФР щодо реклами цінних паперів та фондового ринку - http://www.nssmc.gov.ua/activities/reklama  
 
 Рейтингові агентства НКЦПФР - http://www.nssmc.gov.ua/fund/rateagencies  
@@ -135,7 +150,7 @@ Prozorro - система державних закупівель - http://prozo
 
 Реєстрація емісій цінних паперів - http://www.nssmc.gov.ua/activities/stockregistration  
 
-Реєстр великих платників податків на 2015 рік - http://sfs.gov.ua/…/m…/000/115/167732/Dodatok_1_Re_str_.xlsx  
+Реєстр великих платників податків на 2015 рік - http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/167732.html
 
 Оперативні дані щодо стану фондового ринку - http://www.nssmc.gov.ua/fund/stanrinku  
 
@@ -143,29 +158,27 @@ Prozorro - система державних закупівель - http://prozo
 
 Державний реєстр дитячих закладів оздоровлення та відпочинку - http://drdz.mlsp.gov.ua/msm  
 
-Перелік земельних ділянок сільськогосподарського призначення державної власності, права на які плануються продавати на земельних торгах - http://dazru.gov.ua/perelik-zemelnix-dilyanok-silskogospod…/  
+Сайт Держгеокадастру України - land.gov.ua  
 
-Повний перелік державних топографо-геодезичних і картографічних підприємств, перелік інститутів землеустрою - 	http://land.gov.ua/…/107650-perelik-derzhavnykh-topohrafo-h… та http://land.gov.ua/…/107650-perelik-derzhavnykh-topohrafo-h…  
+Повний перелік державних топографо-геодезичних і картографічних підприємств, перелік інститутів землеустрою - 	http://land.gov.ua/struktura/derzhavni-topohrafo-heodezychni-pidpryiemstva/107650-perelik-derzhavnykh-topohrafo-heodezychnykh-i-kartohrafichnykh-pidpryiemstv-2.html та http://land.gov.ua/struktura/derzhavni-instytuty-zemleustroiu/104065-perelik-instytutiv-zemleustroiu.html  
 
-Реєстр гарантів. Державна фіскальна служба - http://sfs.gov.ua/…/ma…/000/076/120338/re_str_garant_v_n.doc	 
+Реєстр гарантів. Державна фіскальна служба - http://sfs.gov.ua/data/material/000/152/90329/31.08.2015.doc 
 
-Перелік об'єктів права інтелектуальної власності, включених до митного реєстру - http://sfs.gov.ua/…/mater…/000/062/100237/ovi_10.06.2015.xls  
+Перелік об'єктів права інтелектуальної власності, включених до митного реєстру - http://sfs.gov.ua/data/material/000/062/100237/ovi_24.12.2015.xls  
 
-Перелік вилученого митницями майна (крім конфіскованого), що передано в реалізацію - http://sfs.gov.ua/…/1667…/Customs_goods_month_01.06.2015.xls  
+Перелік вилученого митницями майна (крім конфіскованого), що передано в реалізацію - http://sfs.gov.ua/dovidniki--reestri--perelik/pereliki-/166716.html  
 
-Реєстр підприємств, яким надано дозвіл на відкриття та експлуатацію митного складу - http://sfs.gov.ua/…/…/000/057/94929/Re_str_MS_01.06.2015.xls  
+Реєстр підприємств, яким надано дозвіл на відкриття та експлуатацію митного складу - http://sfs.gov.ua/data/material/000/057/94929/Re_str_MS_31.12.2015.xls  
 
 Комплексна інформаційна система Держфінпослуг - http://kis.nfp.gov.ua  
 
-Державний реєстр оцінювачів та суб'єктів оціночної діяльності  - http://www.spfu.gov.ua/…/SPFU_UploadsListI…/20150626_DRO.xls  
+Державний реєстр оцінювачів та суб'єктів оціночної діяльності - http://www.spfu.gov.ua/ua/content/spf-estimate-registers.html  
 
-Реєстр організаторів аукціонів по відчуженню майна - http://www.spfu.gov.ua/…/RegisterOrganizers%D0%90uctionsSal…  
+Реєстр організаторів аукціонів по відчуженню майна - http://www.spfu.gov.ua/ua/list/spf-cancellation-auctions.html  
 
-Реєстр корпоративних прав держави - http://www.spfu.gov.ua/…/…/RegisterStateCorporateRights.aspx  
+Реєстр корпоративних прав держави - http://www.spfu.gov.ua/ua/documents/docs-list/spf-management-Reestr-korporativnih-prav.html  
 
-Реєстр договорів Фонду державного майна - http://www.spfu.gov.ua/…/SPFUSit…/RegisterLegalEntities.aspx  
-
-Потенційні об'єкти оренди Фонду державного майна - http://www.spfu.gov.ua/…/SPFUSi…/PotentionalRentObjects.aspx  
+Потенційні об'єкти оренди Фонду державного майна - http://www.spfu.gov.ua/rent-obj/spf-rent-facilities.html  
 
 Перелік державних геологічних підприємств - http://www.geo.gov.ua/derzhavn-geologchn-pdpriyemstva.html  
 
@@ -175,9 +188,9 @@ Prozorro - система державних закупівель - http://prozo
 
 Реєстр магазинів безмитної торгівлі - http://sfs.gov.ua/…/material/000/057/94931/Re_str_MBT_01.06…  
 
-Єдиний реєстр суб’єктів господарювання, які можуть здійснювати реалізацію безхазяйного майна та майна, що переходить у власність держави, у 2015 році - http://sfs.gov.ua/…/124/179847/_diniy_re_str_sayt_090615.xls  
+Єдиний реєстр суб’єктів господарювання, які можуть здійснювати реалізацію безхазяйного майна та майна, що переходить у власність держави, у 2015 році - http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/179847.html  
 
-Інформація про власників істотної участі у банках - http://www.bank.gov.ua/control/uk/publish/article…  
+Інформація про власників істотної участі у банках - http://www.bank.gov.ua/control/uk/publish/article?art_id=6738234  
 
 Національний реєстр електронних інформаційних ресурсів - http://e-resurs.gov.ua   
 
@@ -209,8 +222,6 @@ Prozorro - система державних закупівель - http://prozo
 
 Державне агентство з питань електронного урядування України - http://dknii.gov.ua/  
 
-Детальна карта усього - http://nadoloni.com/c/25.56141,49…/f/STL1643945522/l/mapnik…  
-
 Сплата штрафів за порушення ПДР, сплатити транспортний податок - https://gospay.com.ua/  
 
 Вхід в особистий кабінет виборця - https://www.drv.gov.ua/apex/f?p=111%3ALOG  
@@ -237,9 +248,9 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Централізована база даних МТСБУ - https://cbd.mtibu.kiev.ua/MTSBU_Pages/Tree.aspx…  
 
-Перелік осіб, пов`язаних із здійсненням терористичної діяльності або стосовно яких застосовано міжнародні санкції - https://www.pard.ua/…/financial-…/3443-2015-06-03-terorysty/  
+Перелік осіб, пов`язаних із здійсненням терористичної діяльності або стосовно яких застосовано міжнародні санкції - https://www.pard.ua/uk/news/3853-2015-12-22-terorysty/  
 
-Продукція, сертифікована Укрметртестстандартом - http://www.ukrcsm.kiev.ua/index.p…/…/2009-02-12-13-16-36/-qq  
+Продукція, сертифікована Укрметртестстандартом - http://www.ukrcsm.kiev.ua/index.php/ru/2009-02-12-13-16-36/-qq  
 
 Єдиний реєстр спеціальних бланків нотаріальних документів - http://rnb.informjust.ua  
 
@@ -253,7 +264,7 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Державний реєстр лікарських засобів - http://www.drlz.kiev.ua  
 
-База даних інфраструктури експорта - http://ukrexport.gov.ua/rus/baza_ukr_infrastructure/…  
+База даних інфраструктури експорта - http://www.ukrexport.gov.ua/ukr/baza_ukr_infrastructure/  
 
 Єдиний Реєстр медичних працівників та штампів - http://umcbdr.com.ua/reyestri  
 
@@ -273,8 +284,10 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Українська міжбанківська валютна біржа. Фондовий, товарний ринок, електронні аукціони з продажу нафтопродуктів - http://www.uice.com.ua  
 
-Реєстр агентів. Моторно траспортне страхове бюро України МТСБУ - https://cbd.mtibu.kiev.ua/MTS…/Parameters/SearchParams.aspx…  
+Централізована база даних МТСБУ - https://cbd.mtibu.kiev.ua/MTSBU_Pages/Tree.aspx?autoauth=true
 
 Реєстр спецдозволів ДНВП "ГЕОІНФОРМ УКРАЇНИ" - http://geoinf.kiev.ua/specdozvoli/  
 
-Єдиний державний реєстр осіб, які вчинили корупційні правопорушення - http://corrupt.informjust.ua/
+Єдиний державний реєстр осіб, які вчинили корупційні правопорушення - http://corrupt.informjust.ua/  
+
+Електроний кабінет платника податків - http://kpp.minrd.gov.ua/Publish/PublishedApp.aspx

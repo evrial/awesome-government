@@ -1,11 +1,10 @@
 ### Зміст 
 
-[Головна](https://github.com/DevRainSolutions/KyivSmartCity/wiki)
-
 Списки:
 
 * [Загальнонаціональні сервіси та реєстри](https://github.com/DevRainSolutions/KyivSmartCity/wiki/government)
 * [Соціальні сервіси та волонтерські проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
+* [Краудфандинговы платформи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/crowdfunding)
 
 Сервіси по регіонах:
 

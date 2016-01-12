@@ -4,6 +4,8 @@
 
 * [Загальнонаціональні сервіси та реєстри](https://github.com/DevRainSolutions/KyivSmartCity/wiki/government)
 * [Соціальні сервіси та волонтерські ініціативи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
+* [Краудфандинговы платформи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/crowdfunding)
+
 
 Сервіси по регіонах:
 

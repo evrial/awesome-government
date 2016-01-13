@@ -86,8 +86,6 @@ Prozorro - система державних закупівель - http://prozo
 
 Перелік об'єктів, які є найбільшими забруднювачами довкілля - http://www.menr.gov.ua/control/control4   
 
-Реєстр екологічних аудиторів - http://www.menr.gov.ua/…/268-reiestr-ekolohichnykh-audytoriv  
-
 Державний реєстр пестицидів і агрохімікатів, дозволених до використання - http://www.menr.gov.ua/control/control5   
 
 Перелік відомостей, що становлять службову інформацію і яким присвоюється гриф “Для службового користування” - http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/article…  
@@ -323,8 +321,6 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 Оглядові геологічні карти: http://www.geo.gov.ua/oglyadov-geologchn-karti.html  
 
 Перелік об'єктів, які є найбільшими забруднювачами довкілля: http://www.menr.gov.ua/control/control4  
-
-Реєстр екологічних аудиторів: http: //www.menr.gov.ua / ... / 268-reiestr-ekolohichnykh-audytoriv  
 
 Державний реєстр пестицидів і агрохімікатів, дозволених до використання в Україні: http://www.menr.gov.ua/control/control5  
 

@@ -80,8 +80,6 @@ Prozorro - система державних закупівель - http://prozo
 
 Реєстр адміністративних послуг - http://poslugy.gov.ua/AdminService/List  
 
-База даних експортерів - http://ukrexport.gov.ua/rus/ukr_export_exporters/…  
-
 Оглядові геологічні карти - http://www.geo.gov.ua/oglyadov-geologchn-karti.html  
 
 Перелік об'єктів, які є найбільшими забруднювачами довкілля - http://www.menr.gov.ua/control/control4   
@@ -169,10 +167,6 @@ Prozorro - система державних закупівель - http://prozo
 Єдиний реєстр суб’єктів господарювання, які можуть здійснювати реалізацію безхазяйного майна та майна, що переходить у власність держави, у 2015 році - http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/179847.html  
 
 Інформація про власників істотної участі у банках - http://www.bank.gov.ua/control/uk/publish/article?art_id=6738234  
-
-Національний реєстр електронних інформаційних ресурсів - http://e-resurs.gov.ua   
-
-Державний реєстр нерухомих пам'яток - http://mincult.kmu.gov.ua/mincult/uk/publish/article/294593 та http://mincult.kmu.gov.ua/mincult/uk/publish/article/294599  
 
 Реєстр документів дозвільного характеру - http://irc.gov.ua/ua/reestr_rddh  
 
@@ -296,29 +290,13 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Реєстри навчальних закладів: http://www.reestr.osvita.net  
 
-Єдиний реєстр адвокатів України: http://www.unba.org.ua/erau  
-
 Перевірка коду IMEI мобільних телефонів: http://www.ucrf.gov.ua/baza-imei/perevirka-kodu-imei  
-
-Державний реєстр потенційно шкідливих об'єктів: http://sfd.archives.gov.ua/RUS/page4.html  
-
-Єдина база чіпованих тварин: http://www.tracer.com.ua  
-
-Державного реєстру лікарських засобів: http: //www.drlz.kiev. ua  
 
 Державний реєстр небезпечних факторів Держсанепідемслужби: http://uhrc.gov.ua/registr  
 
 Державного реєстру медичної техніки та виробів медичного призначення: http: //www.moz.gov.ua/ua/portal/register_medicaltechnics  
 
-Державний реєстр телерадіоорганізацій: http: //www.nrada.gov.ua/ua/13720.html  
-
-Реєстр адміністративних послуг: http://poslugy.gov.ua/AdminService/List  
-
 База даних експортерів: http://ukrexport.gov.ua/rus/ukr_export_exporters/  
-
-База даних інфраструктури експорту: http://ukrexport.gov.ua/rus/baza_ukr_infrastructure/  
-
-Оглядові геологічні карти: http://www.geo.gov.ua/oglyadov-geologchn-karti.html  
 
 Перелік об'єктів, які є найбільшими забруднювачами довкілля: http://www.menr.gov.ua/control/control4  
 
@@ -418,13 +396,9 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Електронна митниця: http://sfs.gov.ua/baneryi/mitne-oformlennya/subektam-zed/elektronna-mitnitsya/  
 
-Реєстр магазинів безмитної торгівлі: http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/94931.html  
-
 Єдиний реєстр суб'єктів господарювання, які можуть здійснювати реалізацію безхазяйного майна та майна, що переходить у власність держави, в 2015 році: http://sfs.gov.ua/dovidniki--reestri--perelik/reestri/179847.html  
 
 Поштові індекси та відділення поштового зв'язку: http://services.ukrposhta.com/postindex_new  
-
-Інформація про власників істотної участі в банках: http://bank.gov.ua/control/uk/publish/article  
 
 Стан навколишнього середовища: http://www.ecobank.org.ua/state/Pages/default.aspx  
 

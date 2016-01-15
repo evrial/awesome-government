@@ -409,3 +409,5 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 Узагальнений банк даних «Меморіал»: http://www.obd-memorial.ru/html/index.html  
 
 Державного реєстру нерухомих пам'яток: http://mincult.kmu.gov.ua/mincult/uk/publish/article/294593 та http://mincult.kmu.gov.ua/mincult/uk/publish/article/294599  
+
+Перевірка транлітерації свого прізвища - http://dmsu.gov.ua/perevirka-transliteratsiji-prizvishcha  

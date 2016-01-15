@@ -110,3 +110,5 @@ E-CITY - вирішуємо проблеми разом - http://e-city.in.ua/
 EdEra Books – інтерактивна освітня бібліотека - https://www.ed-era.com/books/  
 
 Доступний аналіз та оптимізація витрат на енергетичні ресурси - https://umuni.com/  
+
+Книжковий клуб твого міста - http://www.5books.club/  

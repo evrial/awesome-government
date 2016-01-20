@@ -12,4 +12,6 @@
 
 Електронна Вінниця: які послуги надають містянам онлайн? - http://vn.20minut.ua/IT-novyny/elektronna-vinnitsya-yaki-poslugi-nadayut-mistyanam-onlayn-10476926.html  
 
-Система місцевих петицій - http://www.e-dem.in.ua
+Система місцевих петицій - http://www.e-dem.in.ua  
+
+Перейменування вулиць у місті - http://urban.vn.ua/archives/4133  

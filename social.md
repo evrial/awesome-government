@@ -114,4 +114,6 @@ EdEra Books – інтерактивна освітня бібліотека - h
 
 Всеукраїнський електроний реєстр порушень прав громадян "Зворотній звязок" - http://feedback.org.ua  
 
-“Громадський патруль” — автомобільний проект для справедливих водіїв!  - https://www.facebook.com/uaroads/photos/a.555235461262612.1073741828.555220534597438/894390304013791/?type=3&theater та додаток для Android https://play.google.com/store/apps/details?id=com.stfalcon.hromadskyipatrol  
+“Громадський патруль” — автомобільний проект для справедливих водіїв!  - https://www.facebook.com/uaroads/photos/a.555235461262612.1073741828.555220534597438/894390304013791/?type=3&theater та додаток для Android https://play.google.com/store/apps/details?id=com.stfalcon.hromadskyipatrol    
+
+Онлайн бюро знахідок - http://verni.com.ua/  

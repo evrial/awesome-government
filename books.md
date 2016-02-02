@@ -7,3 +7,5 @@ EdEra Books – інтерактивна освітня бібліотека - h
 KOMUBOOK - Перша українська платформа краудпаблішингу http://komubook.com.ua/
 
 Є-підручники http://e-pidruchnyky.net/catalog/
+
+Українські наукові журнали http://usj.org.ua/short_list

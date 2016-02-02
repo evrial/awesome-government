@@ -6,6 +6,7 @@
 * [Соціальні сервіси та волонтерські проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
 * [Краудфандингові платформи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/crowdfunding)
 * [Бібліотеки та книжні проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/books)
+* [Транспорт, паркування, дороги](https://github.com/DevRainSolutions/KyivSmartCity/wiki/transport)
 
 Сервіси по регіонах:
 

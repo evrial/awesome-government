@@ -22,10 +22,6 @@
 
 GOSPAY для всех твоих счетов - https://gospay.net/  
 
-Дороги України - http://uaroads.com/  
-
-Код міста - http://kodmista.com.ua/  
-
 Всі акредитовані центри сертифікації ключів України - https://www.google.com/maps/d/u/0/viewer?usp=sharing&mid=zVVn_lBkxW4A.kMLwCKkQoZ_A  
 
 BadParking — скарги на паркування - http://badparking.in.ua/  
@@ -104,13 +100,7 @@ E-CITY - вирішуємо проблеми разом - http://e-city.in.ua/
 
 Всеукраїнський центр волонтерів - http://www.peoplesproject.com/  
 
-Спільнокошт - https://biggggidea.com/projects/  
-
-EdEra Books – інтерактивна освітня бібліотека - https://www.ed-era.com/books/  
-
 Доступний аналіз та оптимізація витрат на енергетичні ресурси - https://umuni.com/  
-
-Книжковий клуб твого міста - http://www.5books.club/  
 
 Всеукраїнський електроний реєстр порушень прав громадян "Зворотній звязок" - http://feedback.org.ua  
 

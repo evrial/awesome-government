@@ -24,8 +24,6 @@ GOSPAY для всех твоих счетов - https://gospay.net/
 
 Всі акредитовані центри сертифікації ключів України - https://www.google.com/maps/d/u/0/viewer?usp=sharing&mid=zVVn_lBkxW4A.kMLwCKkQoZ_A  
 
-BadParking — скарги на паркування - http://badparking.in.ua/  
-
 Безвизовые страны для украинцев в 2015 и 2016 году - http://kwidoo.ru/non-visas-for-ukraine.html  
 
 Український інститут інтелектуальної власності - http://base.uipv.org/searchBUL/search.php?dbname=apptmc  
@@ -58,25 +56,13 @@ BadParking — скарги на паркування - http://badparking.in.ua/
 
 Ціна Держави - http://cost.ua/  
 
-Дороги України - http://uaroads.com/  
-
-Онлайн резервування та придбання квиткiв УЗ - http://booking.uz.gov.ua/  
-
-Розклад автобусів - http://bus.com.ua/  
-
 Онлайн-калькулятор для розрахунку субсидій - http://www.kmu.gov.ua/control/calculator  
 
 Код міста - http://kodmista.com.ua/  
 
-УкрЯма - http://ukryama.com/  
-
-Скарги на паркування - http://badparking.in.ua/  
-
 Звернення громадян - http://1551.gov.ua/  
 
-Карта аварій - http://amap.1551.gov.ua/  
-
-Агенти змін - http://a3.kyiv.ua/  
+Карта аварій (ЖКХ) - http://amap.1551.gov.ua/  
 
 Нетехнічні вакансії на роботу і стажування в стартапах  - http://workcelerator.com/  
 
@@ -103,8 +89,6 @@ E-CITY - вирішуємо проблеми разом - http://e-city.in.ua/
 Доступний аналіз та оптимізація витрат на енергетичні ресурси - https://umuni.com/  
 
 Всеукраїнський електроний реєстр порушень прав громадян "Зворотній звязок" - http://feedback.org.ua  
-
-“Громадський патруль” — автомобільний проект для справедливих водіїв!  - https://www.facebook.com/uaroads/photos/a.555235461262612.1073741828.555220534597438/894390304013791/?type=3&theater та додаток для Android https://play.google.com/store/apps/details?id=com.stfalcon.hromadskyipatrol    
 
 Онлайн бюро знахідок - http://verni.com.ua/  
 

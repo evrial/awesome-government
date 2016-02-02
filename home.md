@@ -5,6 +5,7 @@
 * [Загальнонаціональні сервіси та реєстри](https://github.com/DevRainSolutions/KyivSmartCity/wiki/government)
 * [Соціальні сервіси та волонтерські ініціативи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/social)
 * [Краудфандингові платформи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/crowdfunding)
+* [Бібліотеки та книжні проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/books)
 
 
 Сервіси по регіонах:

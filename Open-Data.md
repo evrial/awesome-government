@@ -6,4 +6,7 @@
 
 Публічна інформація у формі відкритих даних від Національного банку України - http://bank.gov.ua/control/uk/publish/article?art_id=25327817&cat_id=25365601
 
-Державне агентство з питань електронного урядування України. Дорожня карта - https://www.facebook.com/eGovernanceUkraine/posts/973206482732621?fref=nf
+Державне агентство з питань електронного урядування України. Дорожня карта - https://www.facebook.com/eGovernanceUkraine/posts/973206482732621?fref=nf  
+
+Портал відкритих даних Верховної Ради України - http://data.rada.gov.ua/open  
+

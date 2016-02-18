@@ -7,7 +7,7 @@
 * [Краудфандингові платформи](https://github.com/DevRainSolutions/KyivSmartCity/wiki/crowdfunding)
 * [Бібліотеки та книжні проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/books)
 * [Транспорт, паркування, дороги](https://github.com/DevRainSolutions/KyivSmartCity/wiki/transport)
-* [Open Data](https://github.com/DevRainSolutions/KyivSmartCity/wiki/Open-Data)
+* [Проекти на основі відкритих даних](https://github.com/DevRainSolutions/KyivSmartCity/wiki/Open-Data)
 
 
 Сервіси по регіонах:

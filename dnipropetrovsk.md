@@ -4,5 +4,6 @@
 
 Карта Нікополя - http://www.road.problemnik.info/  
 
-Система місцевих петицій - http://www.e-dem.in.ua
+Система місцевих петицій - http://www.e-dem.in.ua  
 
+OpenData: благоустрій та золоті дороги. Витрати Кривого Рогу. - http://www.datastory.org.ua/?p=839

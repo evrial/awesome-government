@@ -4,7 +4,7 @@ Prozorro - система державних закупівель - http://prozo
 
 Портал державних послуг - https://igov.org.ua  
 
-Система реалізації конфіскованого та арештованого майна - https://trade.informjust.ua  
+Система реалізації конфіскованого та арештованого майна - https://trade.informjust.ua  ht
 
 Декларації урядовців всієї України - http://declarations.com.ua/  
 
@@ -329,6 +329,8 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 Виробники авіаційної техніки: http://avia.gov.ua/documents/Lotna-pridatn/sertifikaciya-tipu/Virobniki-AT/30161.html  
 
 Типи повітряних суден, які схвалені для експлуатації в ЦА: http://avia.gov.ua/documents/Lotna-pridatn/sertifikaciya-tipu/tipps/23861.html  
+
+Відомості по Державному реєстру цивільних повітряних суден - http://avia.gov.ua/documents/rcps/vrcps/24020.html  
 
 Реквізити аеропортів цивільної авіації України: http://avia.gov.ua/documents/airports/certification/Aerodrome_ZPM_MTR/24145.html  
 

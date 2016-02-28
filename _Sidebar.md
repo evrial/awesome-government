@@ -8,6 +8,7 @@
 * [Бібліотеки та книжні проекти](https://github.com/DevRainSolutions/KyivSmartCity/wiki/books)
 * [Транспорт, паркування, дороги](https://github.com/DevRainSolutions/KyivSmartCity/wiki/transport)
 * [Проекти на основі відкритих даних](https://github.com/DevRainSolutions/KyivSmartCity/wiki/Open-Data)
+* [SmartCity](https://github.com/DevRainSolutions/KyivSmartCity/wiki/Smart-City)
 
 Сервіси по регіонах:
 

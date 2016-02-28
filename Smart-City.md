@@ -1,0 +1,1 @@
+Розумне місто. Електронне врядування - https://www.facebook.com/rozumnemisto.org/?notif_t=fbpage_fan_invite

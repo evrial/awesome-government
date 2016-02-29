@@ -29,3 +29,5 @@ Cайт ТернопільГаз - http://www.tmgaz.te.ua/
 Тернопільська медична інформаційна система. Електронна реєстратура - http://www.zdorov.te.ua/  
 
 Карта маршрутів транспорту у містах - http://www.eway.in.ua/ua/cities/ternopil  
+
+Центр інноваційних ідей - http://idea.te.ua/  

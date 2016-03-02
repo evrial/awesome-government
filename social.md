@@ -83,5 +83,5 @@
 Е-скарги щодо порушень прав людини - http://feedback.org.ua/  
 Е-скарги щодо проблем у місті - http://opencity.in.ua  
 E-CITY - вирішуємо проблеми разом - http://e-city.in.ua/  
-Електронне урядування - https://www.facebook.com/rozumnemisto.org/?notif_t=fbpage_fan_invite
+Електронне урядування - https://www.facebook.com/rozumnemisto.org/?notif_t=fbpage_fan_invite  
 Електронна оплата рахунків GOSPAY - https://gospay.net/  

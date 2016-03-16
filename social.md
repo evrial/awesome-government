@@ -71,6 +71,7 @@
 Код міста - http://kodmista.com.ua/  
 Безвизовые страны для украинцев в 2015 и 2016 году - http://kwidoo.ru/non-visas-for-ukraine.html  
 Поштові індекси та відділення поштового зв’язку - http://services.ukrposhta.com/postindex_new  
+Закордонний паспорт. Зручне оформлення закордонного паспорта - http://pasport.org.ua/poslugi/zakordonnij-pasport  
 
 ####Опитування та рейтинги
 Опитування ООН “My World” - http://vote.myworld2015.org  

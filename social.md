@@ -4,6 +4,7 @@
 
 ДонорUA - https://donor.ua  
 Таблеточки - http://tabletochki.org/  
+Інформація про ціни на ліки та їх пошук в аптеках - http://medbrowse.com.ua/  
 
 #### Житлово-комунальні послуги
 

@@ -413,3 +413,5 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 Державного реєстру нерухомих пам'яток: http://mincult.kmu.gov.ua/mincult/uk/publish/article/294593 та http://mincult.kmu.gov.ua/mincult/uk/publish/article/294599  
 
 Перевірка транлітерації свого прізвища - http://dmsu.gov.ua/perevirka-transliteratsiji-prizvishcha  
+
+UX/UI стандарти державних порталів - http://government.github.io/best-practices/design-systems/  

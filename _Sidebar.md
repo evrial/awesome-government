@@ -9,6 +9,7 @@
 * [Транспорт, паркування, дороги](https://github.com/DevRainSolutions/KyivSmartCity/wiki/transport)
 * [Проекти на основі відкритих даних](https://github.com/DevRainSolutions/KyivSmartCity/wiki/Open-Data)
 * [Геопросторові дані](https://github.com/DevRainSolutions/KyivSmartCity/wiki/geodata)
+* [API](https://github.com/DevRainSolutions/KyivSmartCity/wiki/api)
 
 Сервіси по регіонах:
 

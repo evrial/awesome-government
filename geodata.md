@@ -9,3 +9,5 @@
 Пасажири української залізниці - http://shiny.texty.org.ua/uz_traffic/
 
 Місця та івенти - https://www.google.com/maps/d/viewer?mid=z8K60YZvAyvw.kjWTOyma-sGE  
+
+Карта камер автофиксации нарушений ПДД в Киеве - https://www.google.com/maps/d/u/0/viewer?mid=1IavFjcZJSFfiYZFJewg9Q6ixBZA  

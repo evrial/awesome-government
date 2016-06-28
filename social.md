@@ -36,6 +36,7 @@
 Тексти: інфографіка, інтерактивна візуалізація даних - http://texty.org.ua/pg/blog/infoviz  
 Всі акредитовані центри сертифікації ключів України - https://www.google.com/maps/d/u/0/viewer?usp=sharing&mid=zVVn_lBkxW4A.kMLwCKkQoZ_A  
 Перелік українських ІТ блогів - http://subreader.co/aggregated/  
+Всі IT-курси України - http://itosvita.in.ua/  
 
 ####Екологія
 

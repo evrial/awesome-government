@@ -22,3 +22,8 @@
 * [Одеська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/odesa)
 * [Тернопільська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/ternopil)
 * [Харківська область](https://github.com/DevRainSolutions/KyivSmartCity/wiki/harkiv)
+
+Інші сервіси та набори даних:
+
+* [Russian awesome open budget list]( https://github.com/infoculture/awesome-openbudget). Open budget resources (in Russian and English) / Открытые бюджеты (на русском и английском языках)
+* [Awesome Data Journalism](https://github.com/infoculture/awesome-datajournalism)

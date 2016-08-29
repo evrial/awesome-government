@@ -27,6 +27,35 @@ BI ProZorro - http://bi.prozorro.org/
 Інформаційна бази даних про ринок цінних паперів - http://stockmarket.gov.ua/  
 Портал відкритих міських даних - http://data.danimist.org.ua/  
 
+###Інкубатори відкритих даних
+
+Відбір проектів, інкубація та пошук інвестицій у «1991» - http://1991.vc/  
+Конкурс ІТ-проектів в області електронної демократії EGAP Challenge - http://egap.in.ua/  
+
+###Світові та українські компетенції/рейтинги, міжнародні організації в сфері відкритих даних
+
+Рейтинг Open Data Barometer - http://opendatabarometer.org/  
+Інші міжнародні рейтинги - http://index.okfn.org/  
+Розвиток відкритих даних по всьому світу, формування стандартів та єдиних підходів - http://theodi.org/  
+Підтримка громадських інституцій щодо розвитку відкритих даних - https://okfn.org/  
+A Comprehensive List of Open Data Portals - http://dataportals.org/  
+Підтримка ініціатив та організація міжнародної співпраці - http://od4d.net/  
+The Global Anti-Corruption Coalition - https://www.transparency.org/  
+Open Contracting Partnership - http://www.open-contracting.org/  
+The United Nations E-Government Development Database - https://publicadministration.un.org/  
+Моніторинг важливих подій, ініціатив, проектів, публікацій щодо е-демократії - http://wbi.worldbank.org/boost/  
+The Global Partnership for Open Data - http://od4d.com/  
+
+###Фонди, що підтримують сектор відкритих даних
+
+GIZ - https://www.giz.de/  
+Фонд Східна Європа - http://www.eef.org.ua/  
+Міжнародний фонд «Відродження» - http://www.irf.ua/  
+Western NIS Enterprise Fund (WNISEF) - http://www.wnisef.org/  
+EGAP - http://egap.in.ua/  
+USAID - https://www.usaid.gov/  
+ПРООН - http://www.ua.undp.org/  
+
 ###Інфраструктура
 
 Міська карта підземних комунікацій Херсону. На інтерактивній карті відображені усі комунікаційні мережі миста, їх технічні характеристики та дані про маркування. - http://bit.ly/underMap 

@@ -417,3 +417,5 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 Перевірка транлітерації свого прізвища - http://dmsu.gov.ua/perevirka-transliteratsiji-prizvishcha  
 
 UX/UI стандарти державних порталів - http://government.github.io/best-practices/design-systems/  
+
+Розшукові обліки МФС - http://wanted.mvs.gov.ua/  

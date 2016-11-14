@@ -13,7 +13,6 @@
 Карта аварій (ЖКХ) - http://amap.1551.gov.ua/  
 Доступний аналіз та оптимізація витрат на енергетичні ресурси - https://umuni.com/  
 Самоорганізація жителів багатоповерхівок - http://moydom.com  
-GPS - моніторинг - http://clean-city.kiev.ua  
 
 ####Урядування
 
@@ -44,8 +43,9 @@ GPS - моніторинг - http://clean-city.kiev.ua
 ####Екологія
 
 Стан довкілля - http://www.ecobank.org.ua/state/Pages/default.aspx  
-Пункти збору відпрацьованих батарейок - http://batareiky.in.ua/  
-Україна без сміття - http://nowaste.com.ua/  
+Пункти збору відпрацьованих батарейок - http://batareiky.in.ua  
+Україна без сміття - http://nowaste.com.ua  
+GPS - моніторинг - http://clean-city.kiev.ua  
 
 ####Домашні улюбленці
 

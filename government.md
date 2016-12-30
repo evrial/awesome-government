@@ -419,3 +419,7 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 UX/UI стандарти державних порталів - http://government.github.io/best-practices/design-systems/  
 
 Розшукові обліки МФС - http://wanted.mvs.gov.ua/  
+
+Єдиний державний портал адміністративних послуг - https://poslugy.gov.ua/  
+
+Офіційний портал координації міжнародної допомоги України - http://openaid.gov.ua/  

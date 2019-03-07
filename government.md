@@ -10,9 +10,11 @@ Prozorro - система державних закупівель - http://prozo
 
 Електронний кабінет водія - https://e-driver.hsc.gov.ua/
 
+Електронний кабінет платника - https://cabinet.sfs.gov.ua/
+
 Персональний кабінет виборця http://drv.gov.ua
 
-Система реалізації конфіскованого та арештованого майна - https://trade.informjust.ua  ht
+Система реалізації конфіскованого та арештованого майна - https://trade.informjust.ua
 
 Декларації урядовців всієї України - http://declarations.com.ua/
 

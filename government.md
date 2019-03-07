@@ -14,6 +14,8 @@ Prozorro - система державних закупівель - http://prozo
 
 Персональний кабінет виборця http://drv.gov.ua
 
+Он-лайн будинок юстиції (реєстрація бізнесу та го, інформація з реєстрів, отримати ЕЦП) - https://online.minjust.gov.ua/
+
 Система реалізації конфіскованого та арештованого майна - https://trade.informjust.ua
 
 Декларації урядовців всієї України - http://declarations.com.ua/
@@ -316,7 +318,7 @@ API портала открытых данных - http://api.data.mos.ru/Docs
 
 Перелік відомостей, що становлять службову інформацію і яким присвоюється гриф «Для службового користування»: http://dstszi.kmu.gov.ua/dstszi/control/uk/publish/article
 
-Реєстру наукових організацій: http: // store .uintei.kiev.ua / reestr_new.html
+Реєстру наукових організацій: http://store.uintei.kiev.ua/reestr_new.html
 
 Єдиний державний реєстр виконавчих проваджень: https://trade.informjust.ua/vpdoc/getdoc.aspx
 
